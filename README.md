@@ -1,4 +1,3 @@
-# Aayush Khandelwal
 # [Healthcare Diabetes Dataset](https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes)
 ### In the above Diabetes Dataset, based on some attributes, we are trying to predict the likelihood of Diabetes Risk for any patient. The attributes of dataset are as follows: 
 #### Id: Unique Identifier 
